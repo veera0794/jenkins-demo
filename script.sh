@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Hello, World I am Thanos!"
+echo "Hello World from Jenkins server!"
 
