@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello World from Jenkins server I HAVE added webhook!!!!"
+echo "Hello World from Jenkins server 2"
